@@ -1,0 +1,52 @@
+[
+  {
+    "_id": {
+      "$oid": "653b765c884a78f7ecf902ec"
+    },
+    "fullName": "Tăng Duy Tân",
+    "avatar": "https://backend.daca.vn/assets/images/tang-duy-tan.jpg",
+    "status": "active",
+    "slug": "tang-duy-tan",
+    "deleted": false
+  },
+  {
+    "_id": {
+      "$oid": "653b765c884a78f7ecf902ed"
+    },
+    "fullName": "Thành Đạt",
+    "avatar": "https://backend.daca.vn/assets/images/thanh-dat.jpg",
+    "status": "active",
+    "slug": "thanh-dat",
+    "deleted": false
+  },
+  {
+    "_id": {
+      "$oid": "653b765c884a78f7ecf902ee"
+    },
+    "fullName": "Cao Thái Sơn",
+    "avatar": "https://backend.daca.vn/assets/images/cao-thai-son.jpg",
+    "status": "active",
+    "slug": "cao-thai-son",
+    "deleted": false
+  },
+  {
+    "_id": {
+      "$oid": "653b765c884a78f7ecf902ef"
+    },
+    "fullName": "TLong",
+    "avatar": "https://backend.daca.vn/assets/images/tlong.jpg",
+    "status": "active",
+    "slug": "tlong",
+    "deleted": false
+  },
+  {
+    "_id": {
+      "$oid": "653b765c884a78f7ecf902f0"
+    },
+    "fullName": "Nal",
+    "avatar": "https://backend.daca.vn/assets/images/nal.jpg",
+    "status": "active",
+    "slug": "nal",
+    "deleted": false
+  }
+]
